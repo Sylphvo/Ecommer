@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "irYovkZSjdKgm79AaPCWIJ9d8bEzdipxsCtAuT1VD3o=",
+  "Source": "EcommerApi",
+  "BasePath": "_content/EcommerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
